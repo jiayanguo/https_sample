@@ -8,3 +8,9 @@
 ## How to open a self-signed site on chrome.
 
 https://www.andrewconnell.com/blog/updated-creating-and-trusting-self-signed-certs-on-macos-and-chrome/
+
+## Build
+npm install
+
+## run
+node server.js
