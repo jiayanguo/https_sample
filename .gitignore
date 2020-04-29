@@ -1,0 +1,3 @@
+.idea/
+java/**/target
+nodejs/**/node_modules
