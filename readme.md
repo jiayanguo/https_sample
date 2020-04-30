@@ -12,7 +12,7 @@ Note, it requires to import CA public key to our truststore in this case.
 
   `openssl genrsa -aes256 -out CAPrivate.key 2048`
   
-* generate CA public key. Use password created before.
+* generate CA public key. Use password created before (Need to import this public key to client truststore to establish trust).
 
   `openssl req -new -x509 -key CAPrivate.key -sha256  -days 3650 -out FakeCA.pem`
 
