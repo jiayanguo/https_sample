@@ -37,3 +37,8 @@ Note, it requires to import CA public key to our truststore in this case.
   www.fakesite.csr
   www.fakesite.key
    ``` 
+   
+## Reference
+http://www.steves-internet-guide.com/ssl-certificates-explained/
+https://www.youtube.com/watch?v=iQsKdtjwtYI
+https://www.linkedin.com/learning/learning-ssl-tls/hashing-and-digital-signatures
