@@ -23,6 +23,9 @@ cd demossl && mvn clean install
 ## Run the server.
 java -jar target/demossl-0.0.1-SNAPSHOT.jar
 
+## How to open a self-signed site on chrome.
+https://www.andrewconnell.com/blog/updated-creating-and-trusting-self-signed-certs-on-macos-and-chrome/
+
 
 
 
